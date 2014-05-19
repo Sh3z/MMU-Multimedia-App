@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MMResponsesMasterController didSelectResponse:inTable:]:MMResponsesMasterController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MMResponsesTableModel setResponses:]:MMResponsesTableModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "__65-[MMTutorialController animationControllerDidReachEndOfTutorial:]_block_invoke:MMTutorialController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MMRootMasterGroupingController prepareForSegue:sender:]:MMRootMasterGroupingController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MMMediaController onSetAsCurrentView]:MMMediaController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[VideoEncoder encodeFrame:isVideo:]:VideoEncoder.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_writer.error">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CameraEngine getPreviewLayer]:CameraEngine.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MMMediaController setupMediaPlayerFromSegue:]:MMMediaController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "destinationView.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MMResponsesMasterController viewWillAppear:]:MMResponsesMasterController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CameraEngine stopCapture]:CameraEngine.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MMMediaController viewWillAppear:]:MMMediaController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

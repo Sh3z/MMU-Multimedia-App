@@ -1,0 +1,4 @@
+Speaker Icon from http://www.joemcclane.com/early-church-fathers/images/audio1.jpg
+Polaroid icon from http://www.photosinbox.com/download/polaroid-photo-frames.jpg
+Location and gear icons from Glyphish
+CustomIOS7AlertView by https://github.com/wimagguc/ios-custom-alertview
